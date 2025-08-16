@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "seq": 1100101,
+    "releaseConditionId": 1,
+    "categories": [
+      "mv"
+    ],
+    "title": "Tell Your World",
+    "pronunciation": "てるゆあわーるど",
+    "creatorArtistId": 1,
+    "lyricist": "kz",
+    "composer": "kz",
+    "arranger": "kz",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_001",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1560148031000,
+    "releasedAt": 1326812400000,
+    "liveStageId": 1,
+    "fillerSec": 9.0,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 2,
+    "seq": 1200101,
+    "releaseConditionId": 1,
+    "categories": [
+      "mv"
+    ],
+    "title": "ロキ",
+    "pronunciation": "ろき",
+    "creatorArtistId": 2,
+    "lyricist": "みきとP",
+    "composer": "みきとP",
+    "arranger": "みきとP",
+    "dancerCount": 5,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_002",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "publishedAt": 1560148031000,
+    "releasedAt": 1519657200000,
+    "liveStageId": 1,
+    "fillerSec": 8.98900032043457,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+]

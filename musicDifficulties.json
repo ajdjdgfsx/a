@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "musicId": 1,
+    "musicDifficulty": "easy",
+    "playLevel": 5,
+    "totalNoteCount": 220
+  },
+  {
+    "id": 2,
+    "musicId": 1,
+    "musicDifficulty": "normal",
+    "playLevel": 10,
+    "totalNoteCount": 492
+  },
+  {
+    "id": 3,
+    "musicId": 1,
+    "musicDifficulty": "hard",
+    "playLevel": 16,
+    "totalNoteCount": 719
+  },
+  {
+    "id": 4,
+    "musicId": 1,
+    "musicDifficulty": "expert",
+    "playLevel": 22,
+    "totalNoteCount": 961
+  },
+]  
